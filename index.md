@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Redirect
 feature_text: |
   ## David Rich
   Welcome to my Personal Portfolio Site!
