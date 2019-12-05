@@ -1,5 +1,5 @@
 ---
-title: Home
+title: David H. Rich Portfolio
 feature_text: |
    ## Home
 feature_image: "https://picsum.photos/2560/600?image=873"
